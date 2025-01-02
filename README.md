@@ -15,3 +15,9 @@ Text Generation: After training, the model can generate new text that mimics the
 The project provides a practical implementation of LSTM networks for sequence modeling tasks and showcases the potential of neural networks in creative applications like text generation.
 
 The Sample Shakespear's text used can be found here: https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt
+
+--- Keras Documentation ---
+https://keras.io/api/
+
+--- Tensorflow Documentation ---
+https://www.tensorflow.org/api_docs
