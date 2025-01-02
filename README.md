@@ -21,3 +21,6 @@ https://keras.io/api/
 
 --- Tensorflow Documentation ---
 https://www.tensorflow.org/api_docs
+
+*** Code from NeuralNine Tutotrials ***
+https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&index=1
