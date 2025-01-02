@@ -1,1 +1,1 @@
-# py-ai
+# generating-texts-with-recurring-NN
